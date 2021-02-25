@@ -1,6 +1,6 @@
 FROM 1science/java:oracle-jre-8
 
-ENV VERSION=4.3.9.1
+ENV VERSION=4.3.9.2
 LABEL maintainer="Ariel Antigua <me@arielantigua.com>"
 
 # Download nxcloud
